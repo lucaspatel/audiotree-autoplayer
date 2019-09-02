@@ -1,0 +1,22 @@
+{
+  "name": "audiotree-autoplayer",
+  "version": "1.0.0",
+  "description": "A web app autoplayer for Audiotree Live sessions",
+  "author": "lucas",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^1.1.2",
+    "axios": "^0.19.0",
+    "nuxt": "^2.0.0",
+    "vue-youtube-embed": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
