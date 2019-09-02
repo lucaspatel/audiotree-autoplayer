@@ -24,6 +24,9 @@ export default {
   */
   css: [
   ],
+  purgeCSS: {
+    enabled: false
+  },
   /*
   ** Plugins to load before mounting the App
   */
